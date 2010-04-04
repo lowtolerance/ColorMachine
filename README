@@ -2,9 +2,13 @@ I was inspired to create this after reading a comment on CSS-Tricks.com, where s
 made an observation that it would be cool to see a webpage that could analyze an image and 
 change the background to best suit it. Well, that is what this attempts to do.
 
-It uses the <canvas> element and the getImageData() function to analyze an image and return its average color, as well as its complimentary color.
+It uses the <canvas> element and the getImageData() function to analyze an image and return 
+its average color, as well as its complimentary color.
 
-The images included are not my own, nor is the jquery.color.js plugin(I am working on eliminating reliance on jQuery for this project). Also, ignore the half-assed layout. It is just a quick demonstration for testing purposes.
+The images included are not my own, nor is the jquery.color.js plugin(I am working on eliminating 
+reliance on jQuery for this project). Also, ignore the half-assed layout. It is just a quick demonstration 
+for testing purposes.
 
-I am learning Javascript, but I am not an expert. I am very interested in using it to manipulate canvases, so any help/tips/optimizations would be very much appreciated. 
+I am learning Javascript, but I am far from an expert. I am very interested in using it to manipulate 
+canvases, so any help/tips/optimizations would be very much appreciated. 
 
